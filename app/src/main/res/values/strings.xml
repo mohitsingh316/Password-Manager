@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Password Manager</string>
+    <string name="add_password">Add Password</string>
+    <string name="save">Save</string>
+    <string name="generate_password">Generate Password</string>
+    <string name="title">Title</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="pass_title">Account Type</string>
+
+    <string name="biometric_prompt_title">Biometric Authentication</string>
+    <string name="biometric_prompt_subtitle">Authenticate to access PasswordManager</string>
+    <string name="biometric_prompt_description">Place your finger on the sensor to authenticate</string>
+    <string name="biometric_prompt_cancel">Cancel</string>
+
+
+</resources>

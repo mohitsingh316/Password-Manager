@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_gray">#4189AE</color>
+    <!-- res/values/colors.xml -->
+
+        <color name="purple_200">#BB86FC</color>
+        <color name="purple_500">#6200EE</color>
+        <color name="purple_700">#3700B3</color>
+        <color name="teal_200">#03DAC5</color>
+        <color name="teal_700">#018786</color>
+
+
+        <!-- Additional colors -->
+        <color name="colorPrimary">#6200EE</color>
+        <color name="colorPrimaryVariant">#3700B3</color>
+        <color name="colorSecondary">#03DAC5</color>
+        <color name="colorSecondaryVariant">#018786</color>
+        <color name="colorOnPrimary">#FFFFFF</color>
+        <color name="colorOnSecondary">#000000</color>
+        <color name="colorOnBackground">#FFFFFF</color>
+        <color name="colorOnSurface">#000000</color>
+        <color name="colorError">#B00020</color>
+
+
+</resources>

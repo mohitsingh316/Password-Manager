@@ -24,12 +24,13 @@ To install PasswordManager, simply download the APK file from the releases secti
 3. Use the password generation feature to create strong passwords.
 4. View, edit, or delete existing passwords as needed.
 
-Here's the corrected version:
 
 ## Screenshots
 
-![Screenshot_20240606_191310](https://github.com/mohitsingh316/Password-Manager/assets/131430722/73374548-b722-494e-9c46-535daff95306)
-![Screenshot_20240606_191317](https://github.com/mohitsingh316/Password-Manager/assets/131430722/23ddf15b-0099-4b69-9096-d7fbeee7e36e)
+<p float="left">
+  <img src="https://github.com/mohitsingh316/Password-Manager/assets/131430722/73374548-b722-494e-9c46-535daff95306" width="200" />
+  <img src="https://github.com/mohitsingh316/Password-Manager/assets/131430722/23ddf15b-0099-4b69-9096-d7fbeee7e36e" width="200" /> 
+</p>
 
 In the first image, you can see the home screen where all saved passwords are displayed. From here, you can update or delete passwords.
 

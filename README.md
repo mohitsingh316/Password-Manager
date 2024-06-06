@@ -1,2 +1,29 @@
-# Password Manager
- PasswordManager  PasswordManager is an Android application that helps users securely manage their passwords. The app allows users to store, view, and manage their passwords in a secure and organized manner. It offers features such as:  Secure Storage: Utilizes AES encryption to securely store passwords in the local SQLite database, ensuring user data remains protected. User-Friendly Interface: Provides an intuitive and easy-to-use interface for adding, viewing, and deleting password entries. Biometric Authentication: Supports biometric authentication (e.g., fingerprint or face recognition) for added security when accessing the app. Password Generation: Includes a feature for generating strong and random passwords, helping users create secure credentials. Data Persistence: Utilizes the Room Persistence Library for efficient and reliable data storage and management. Material Design: Adheres to Google's Material Design guidelines for a modern and visually appealing user experience. This project serves as a practical example of implementing secure password management functionality in an Android application, demonstrating best practices in data encryption, database management, and user authentication.
+# PasswordManager
+
+PasswordManager is an Android application designed to securely manage passwords with features like biometric authentication, password generation, and a user-friendly Material Design UI.
+
+## Features
+- **Secure Password Storage:** Safely store and manage passwords on your Android device.
+- **Biometric Authentication:** Use biometric authentication (fingerprint, face unlock) for added security.
+- **Password Generation:** Generate strong, random passwords for your accounts.
+- **Intuitive UI:** Enjoy a clean and intuitive Material Design user interface for easy navigation.
+
+## Technologies Used
+- **Android:** Developed using Java for Android platform.
+- **Room Persistence Library:** Utilized for managing local SQLite database.
+- **BiometricPrompt:** Integrated biometric authentication for secure access.
+- **RecyclerView:** Implemented to display a list of saved passwords.
+- **ViewModel and LiveData:** Used for handling UI-related data in a lifecycle-aware manner.
+
+## Installation
+To install PasswordManager, simply download the APK file from the releases section and install it on your Android device.
+
+## Usage
+1. Launch the app and authenticate using biometric credentials.
+2. Add new passwords using the "Add" button and provide necessary details.
+3. Use the password generation feature to create strong passwords.
+4. View, edit, or delete existing passwords as needed.
+
+## Contributing
+Contributions are welcome! Feel free to fork the repository, make your enhancements, and submit a pull request.
+
